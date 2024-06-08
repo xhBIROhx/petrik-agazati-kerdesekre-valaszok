@@ -88,39 +88,95 @@ Petrik 2024 ágazati kérdésekre válaszok
 ## Hálózat_alap -> 1
 ### 1/37 not worth
 34. Egy játékprogram fejlesztése során meg kell valósítania a többjátékos módot. Első lépésben a szoftver működő szervert keres a hálózaton, hogy csatlakozhasson ehhez.Milyen szállítási rétegbeli protokollt, és milyen címzést használna ezeknél a felderítő üzeneteknél? **WHERE VÉGE**
+     * UDP protokolt,
+     * broadast cimzest
+
 35. Tanulmányozza a képernyőképet! Az alábbiak közül milyen forgalmat fog rögzíteni a program? V1.png **IS THAT A MOTHER FUCKING ULTRAKILL REFERENCE**
 36. Tanulmányozza a képernyőképet! Az alábbiak közül melyik állítás igaz az éppen vizsgált keretre? V2.png **I'M CRYING AND SHAKING RN FR**
+    
 37. Egy számítógép sikeresen pingel a helyi hálózaton kívülre, de nem tud hozzáférni semmilyen webes szolgáltatáshoz. Mi a legvalószínűbb oka ennek a problémának?
+     * Valoszínűleg nem működik a dns nevfeloldas
 38. Melyik felsorolt technológia gyűrű topológiájú?
+     * Token Ring
+     * FDDI (Fiber Distributed Data Interface)
+     * SONET/SDH (Synchronous Optical Networking/Synchronous Digital Hierarchy)
+  
 39. Mennyi a Fast Ethernet adatátviteli sebessége?
+     * 100Mbit/s
 40. Egy számítógép IP-címe dinamikusan konfigurált, értéke pedig 169.254.17.65. Mire következtethet ebből az információból?
+    * a  169.254.17.65 egy APIPA (Automatic Private IP Addressing) IP cim, amit akkor kap a szamitogep, amikor nem eri el a dhcp servert
+   
 41. Melyik állítás igaz a webszerver alkalmazásra? V7.png2
 42. Az alábbiak közül melyik állítás igaz a webszerver alkalmazásra? V8.png
-43. Tanulmányozza az alábbi képet, amelyen az ipconfig parancs kimenete látható!
+43. Tanulmányozza az alábbi képet, amelyen az ipconfig parancs kimenete látható!     
 44. A felhasználó Minecraft szervert indított a számítógépén, és átengedte azt a tűzfalon. Ezután egy távoli hálózatból megpróbált csatlakozni hozzá egy kliens a fent látható IP-címe ha_01.png **NINCS BEFEJEZVE**
 45. Mi a különbség a 802.3 és a 802.11 szabványok között?
+     * a kozvetito kozeg
+     * .3 -> ethernet (vezetekes) akar 100Gbit/s
+     * .11 -> wi-fi alacsonyabb elerheto maximalis atviteli sebesseg
+     * 
 46. Melyik IPv6-os cím hibás/nem felhasználható?
+     * igazabol itt arra kell figyelni, hogy :: csak egyszer lehet benne
+     * ha a ket kettospont kozott nincs karakter, akkor ott nullák vannak
+  
 47. Melyik feladat NEM tartozik az OSI modell fizikai rétegéhez?
+      * Adatcsomagok irányítása
 48. Az alábbi fogalmak közül melyek azok, amik az OSI modell azonos rétegéhez tartoznak?
+     | OSI Réteg            | Fogalmak                               |
+     |----------------------|----------------------------------------|
+     | Fizikai réteg        | Hálózati adapter (NIC), Bit szintű adatátvitel, Fizikai csatlakozók és kábelek, Jelzés (signaling) |
+     | Adatkapcsolati réteg | MAC cím, Ethernet, Keretezés (framing), Hozzáférés-vezérlés (media access control) |
+     | Hálózati réteg       | IP cím, Útválasztás (routing), Router, ICMP |
+     | Szállítási réteg     | TCP, UDP, Portok, Adatfolyam vezérlés (flow control) |
+     | Viszonyréteg         | Ülésszintű kapcsolat (session management), Szinchronizáció, Session control protocols |
+     | Megjelenítési réteg  | Adatformázás, Titkosítás, Adattömörítés |
+     | Alkalmazási réteg    | HTTP, FTP, SMTP, DNS |
+
 49. Mi az a PDU?
+     * Protocol Data Unit
+     * adott protokoll legkisebb egysége, amit rétegek között továbbítanak
 50. Milyen topológia szerint épül fel a vezetékes hálózat ebben az iskolában? (BMSZC-Petrik)
+       * extended star -> kiterjesztett csillag
 51. Mik azok a protokollok?
+     * szabályok és eljárások rendszere
+     * elősegítik a különböző eszközök és rendszerek közötti hatékony kommunikációt és együttműködést
 52. Miért használ két portot is (20, 21) az FTP?
+     * 21: control port
+     * 20: data port
+     * lehetővé teszi az FTP működését egy tűzfal mögött
 53. Milyen címosztályba tartozik, az alábbi IP cím? 10.0.7.2
+    * private ip adress (10.0.0.0-10.255.255.255)
 54. Melyik szervezet ad közre lokális hálózati szabványokat, mint pl. 802.3, 802.11, 802.15, stb.
+     * IEEE (Institute of Electrical and Electronics Engineers)
 55. Tanulmányozza az alábbi képet! Mit eredményez a fenti parancs? ha_02.png
 56. Tanulmányozza az alábbi képet, amelyen egy forgalomirányító aktuális konfigurációjának részlete látható! Mit állapíthat meg ez alapján? ha_03.png 
 57. Minek a portja a 80-as?
+     * http webserver
 58. Mi az előnye, ha szabványokat használunk protokollok fejlesztése és megvalósítása során?
+     * Kompatibilitás
+     * Rugalmas fejlesztés
+     * Költségmegtakarítás
+     * megbízhatóság
 59. Milyen szolgáltatást nyújt az UDP?
+    * gyors, de hibaellenorzes es vissazigazolas nelkulit
 60. Melyik eszközt nevezzük integrált szolgáltatású eszköznek?
+     * több funkciót egyetlen hardvereszközben kombinál
 61. Az OSI modell melyik rétegéhez tartozik a „Switch”?
+     * Adatkapcsolati -> data link layer
 62. A hálózati átvitel során alkalmazott redundancia…
+    * ...segít megelőzni az adatvesztést vagy sérülést 
 63. Az alábbiak közül melyik nem lehet alhálózati maszk?
+     * formatum 255.255.255.255
+     * atirva binaryba nem folytonosak az 1 esek
 64. Miért használunk az Interneten kétféle címzési rendszert is (MAC-címeket, és IP-címeket)?
+    * másik osi layeren mukodnek
 65. Mi lehet az oka annak, ha két eszköz nem tudja pingelni egymást, pedig van közöttük működő hálózati kapcsolat?
+    * nem megfelelő ip címzés
 66. Szoftverfejlesztőként egy azonnali üzenetküldő alkalmazást kell írnia. Az alábbiak közül melyik portot használná a megvalósítás során?
+    * Port 5222
+    * 49152 és 65535 között
 67. Mire lehet használni a WireShark programot?
+     * Hálózati forgalom elemzése
 68. Mire következtethet abból, ha egy web-oldalt ezzel a linkkel lehet megnyitni:"http://tikos.com/lista.html:8080"
      * arra, hogy nem csak ez az egy oldal fut a gépen
 69. Az alábbiak közül melyik állítás IGAZ?
@@ -132,7 +188,7 @@ Petrik 2024 ágazati kérdésekre válaszok
     Mire következtethet ezekből az adatokból?
      * ugyan az a cég gyártja őket
 71. Melyik az a vezeték nélküli átviteli mód, amely legfeljebb néhány méter távolságban lévőeszközök összekötésére alkalmas, és legalább 1 mb/s-os átviteli sebességet biztosít?
-
+     * Bluetooth
 ## Hálózat_eszközök -> 1
 72. Melyik kábeltípus lenne a legalkalmasabb egy hálózati csatolóval rendelkező nyomtató fali aljzathoz csatlakoztatására?
     * patch kábel; hajlíthatóbb, strapabíróbb
