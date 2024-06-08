@@ -319,9 +319,10 @@ Petrik 2024 ágazati kérdésekre válaszok
      * redundant - amikor több van és az egyik teljessen tökremehet, még mindig el fogja a munkát látni a másik
      * ps2 - mérete
 130. A BIOS (2 jó válasz)
-     * 
+     * Kezdeti rendszerindítás végrehajtója
+     * Beállítások konfigurálója
 131. Melyik eszközre igaz: alátámasztást és fizikai védelmet biztosít a hardverelemeknek?
-     * 
+     * Rack szekreny
 132. Mik a tápegység feladatai és jellemzői? (2 jó válasz)
      * elátja a számítógép eszközeit árammal
      * átalakítja a váltó fali áramot egyenárammá
@@ -480,7 +481,7 @@ Petrik 2024 ágazati kérdésekre válaszok
      * registryben
 188. Mi NEM tartozik a virtuális gép előnyei közé?
      * nagyobb erőforrás igény
-     * nehezebb
+     * nehezebb low level tevekenysegek vegzese
 189. Az NTFS (2 jó válasz) **#AD #AD #AD**
      * "New Technology File System"
      * Naplózós fájlrendszer, korrupciót meg tud előzni (határokon belül) azzal, hogy nyomonköveti a változtatásokat
@@ -551,6 +552,7 @@ Petrik 2024 ágazati kérdésekre válaszok
 229. Válassza ki a helyes megoldást! „A mágikus projektháromszög” peremfeltételei…
 
 
+ #
 
 sources: **(ha mar a kedves petrikes** *(nem csak)* **tanarok csak lopni tudnak.)**
 * http://szakmasztar.hu/wp-content/uploads/2019/02/2019-Informatikai-rendszer%C3%BCzemeltet%C5%91-megold%C3%A1s.pdf
@@ -560,5 +562,5 @@ sources: **(ha mar a kedves petrikes** *(nem csak)* **tanarok csak lopni tudnak.
 * http://ethical.inf.elte.hu/wiki/Fizikai_biztons%C3%A1g#Fizikai_biztons.C3.A1g
 * http://w3.tmit.bme.hu/halozatbiztonsag/Halozatbiztonsag-10.doc
 * https://magyarepitestechnika.hu/index.php/epites-it/digitalis-fogalomtar/
-* https://jumpshare.com/s/4CX5QaHGC8z1alNfOtyD
 * https://www.goconqr.com/en/quiz/2700908/halozat-11
+* https://jumpshare.com/s/4CX5QaHGC8z1alNfOtyD
