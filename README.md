@@ -90,35 +90,29 @@ Petrik 2024 ágazati kérdésekre válaszok
 34. Egy játékprogram fejlesztése során meg kell valósítania a többjátékos módot. Első lépésben a szoftver működő szervert keres a hálózaton, hogy csatlakozhasson ehhez.Milyen szállítási rétegbeli protokollt, és milyen címzést használna ezeknél a felderítő üzeneteknél? **WHERE VÉGE**
      * UDP protokolt,
      * broadast cimzest
-
 35. Tanulmányozza a képernyőképet! Az alábbiak közül milyen forgalmat fog rögzíteni a program? V1.png **IS THAT A MOTHER FUCKING ULTRAKILL REFERENCE**
 36. Tanulmányozza a képernyőképet! Az alábbiak közül melyik állítás igaz az éppen vizsgált keretre? V2.png **I'M CRYING AND SHAKING RN FR**
-    
 37. Egy számítógép sikeresen pingel a helyi hálózaton kívülre, de nem tud hozzáférni semmilyen webes szolgáltatáshoz. Mi a legvalószínűbb oka ennek a problémának?
      * Valoszínűleg nem működik a dns nevfeloldas
 38. Melyik felsorolt technológia gyűrű topológiájú?
      * Token Ring
      * FDDI (Fiber Distributed Data Interface)
      * SONET/SDH (Synchronous Optical Networking/Synchronous Digital Hierarchy)
-  
 39. Mennyi a Fast Ethernet adatátviteli sebessége?
      * 100Mbit/s
 40. Egy számítógép IP-címe dinamikusan konfigurált, értéke pedig 169.254.17.65. Mire következtethet ebből az információból?
     * a  169.254.17.65 egy APIPA (Automatic Private IP Addressing) IP cim, amit akkor kap a szamitogep, amikor nem eri el a dhcp servert
-   
 41. Melyik állítás igaz a webszerver alkalmazásra? V7.png2
 42. Az alábbiak közül melyik állítás igaz a webszerver alkalmazásra? V8.png
-43. Tanulmányozza az alábbi képet, amelyen az ipconfig parancs kimenete látható!     
+43. Tanulmányozza az alábbi képet, amelyen az ipconfig parancs kimenete látható!
 44. A felhasználó Minecraft szervert indított a számítógépén, és átengedte azt a tűzfalon. Ezután egy távoli hálózatból megpróbált csatlakozni hozzá egy kliens a fent látható IP-címe ha_01.png **NINCS BEFEJEZVE**
 45. Mi a különbség a 802.3 és a 802.11 szabványok között?
      * a kozvetito kozeg
      * .3 -> ethernet (vezetekes) akar 100Gbit/s
      * .11 -> wi-fi alacsonyabb elerheto maximalis atviteli sebesseg
-     * 
 46. Melyik IPv6-os cím hibás/nem felhasználható?
      * igazabol itt arra kell figyelni, hogy :: csak egyszer lehet benne
      * ha a ket kettospont kozott nincs karakter, akkor ott nullák vannak
-  
 47. Melyik feladat NEM tartozik az OSI modell fizikai rétegéhez?
       * Adatcsomagok irányítása
 48. Az alábbi fogalmak közül melyek azok, amik az OSI modell azonos rétegéhez tartoznak?
@@ -131,7 +125,6 @@ Petrik 2024 ágazati kérdésekre válaszok
      | Viszonyréteg         | Ülésszintű kapcsolat (session management), Szinchronizáció, Session control protocols |
      | Megjelenítési réteg  | Adatformázás, Titkosítás, Adattömörítés |
      | Alkalmazási réteg    | HTTP, FTP, SMTP, DNS |
-
 49. Mi az a PDU?
      * Protocol Data Unit
      * adott protokoll legkisebb egysége, amit rétegek között továbbítanak
@@ -323,6 +316,7 @@ Petrik 2024 ágazati kérdésekre válaszok
      * Beállítások konfigurálója
 131. Melyik eszközre igaz: alátámasztást és fizikai védelmet biztosít a hardverelemeknek?
      * Rack szekreny
+     * gépház
 132. Mik a tápegység feladatai és jellemzői? (2 jó válasz)
      * elátja a számítógép eszközeit árammal
      * átalakítja a váltó fali áramot egyenárammá
