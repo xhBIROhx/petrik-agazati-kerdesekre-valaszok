@@ -545,10 +545,8 @@ Petrik 2024 ágazati kérdésekre válaszok
 228. Mi a projektmenedzsment fogalma?
 229. Válassza ki a helyes megoldást! „A mágikus projektháromszög” peremfeltételei…
 
-
- #
-
-sources: **(ha mar a kedves petrikes** *(nem csak)* **tanarok csak lopni tudnak.)**
+# Sources
+**(ha mar a kedves petrikes** *(nem csak)* **tanarok csak lopni tudnak.)**
 * http://szakmasztar.hu/wp-content/uploads/2019/02/2019-Informatikai-rendszer%C3%BCzemeltet%C5%91-megold%C3%A1s.pdf
 * http://szakmasztar.hu/wp-content/uploads/2018/01/2018-Informatikai-rendszer%C3%BCzemeltet%C5%91-megold%C3%A1s.pdf
 * https://szakmasztar.hu/wp-content/uploads/2020/01/Informatikai-rendszer%C3%BCzemeltet%C5%91-2020_Megold%C3%A1s.pdf
@@ -557,4 +555,4 @@ sources: **(ha mar a kedves petrikes** *(nem csak)* **tanarok csak lopni tudnak.
 * http://w3.tmit.bme.hu/halozatbiztonsag/Halozatbiztonsag-10.doc
 * https://magyarepitestechnika.hu/index.php/epites-it/digitalis-fogalomtar/
 * https://www.goconqr.com/en/quiz/2700908/halozat-11
-* https://jumpshare.com/s/4CX5QaHGC8z1alNfOtyD
+* https://pdfupload.io/docs/eb4d7669
