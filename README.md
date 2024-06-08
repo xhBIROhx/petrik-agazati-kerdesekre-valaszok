@@ -1,4 +1,4 @@
-petrik-agazati-kerdesekre-valaszok
+Petrik 2024 ágazati kérdésekre válaszok
 ========================
 
 ## csoportmunka -> 1
