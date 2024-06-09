@@ -1,5 +1,7 @@
 Petrik 2024 ágazati kérdésekre válaszok
 ========================
+note: általában ami idéző jelben van az a megtalált kérdés copy paste-elt válasza  
+azért általában, mert nem ér meg annyit ez a jóság, hogy átnézzem többször mint szükséges.
 
 ## csoportmunka -> 1
 1. Mi a teendő merge conflict esetén?
@@ -513,37 +515,111 @@ Petrik 2024 ágazati kérdésekre válaszok
      * eszközkezelő
 
 ## Projektmenedzsment -> 1
-### 1/30 not worth
+### Ez AI spam és osszelopott copy-paste, szörnyű kérdések, nem is tanultuk 0/10; Wouldn't Petrik again.
+de hogy olyan szinten nem tanultuk, hogy:  
+![](https://i.imgur.com/ozHKBFz.png)
+
 200. Az alábbiak közül milyen típusú kapcsolati idő adható meg a MS Project programban?
+     * Finish-to-Start (FS) - Befejezés-kezdés (BK)
+     * Start-to-Start (SS) - Kezdés-kezdés (KK)
+     * Finish-to-Finish (FF) - Befejezés-befejezés (BB)
+     * Start-to-Finish (SF) - Kezdés-befejezés (KB) - Legritkább
 201. Minek a definíciója ez: "a projekt fontosabb fázisainak kezdetét vagy befejezését jelző tevékenység"?
+     * mérföldkő
 202. Egy zenei album rögzítése projekt esetén melyik lesz a munka típusú erőforrás:
+     * zenészek, énekesek
+     * hangmérnökök
+     * producerek
 203. Milyen típusú erőforrásokat vehetünk fel egy projektnél? (3 helyes megoldás)
+     * emberi erőforrások
+     * anyagi erőforrások
+     * pénzügyi erőforrások
 204. Mikor érdemes egy projektben mérföldkövet felvenni?
+     * legelején kitalálni/meghatározni őket
+     * kulcsfontosságú szakaszok elérésekor
 205. Milyen kapcsolatot alkalmaz alapértelmezés szerint a MS Project program?
+     * Finish-to-Start (FS) - Befejezés-kezdés (BK)
 206. A MS Project program mely nézetében láthatjuk a tevékenységeket és az időt is?
+     * Gantt-diagram
 207. A projektben egy anyag típusú erőforrásra teljesül, hogy (2 helyes megoldás)
+     * Teljesítés mennyiség alapján
+     * Teljesítés határidő alapján
 208. Melyik a projektciklus szakaszai közül az utolsó szakasz?
+     * értékelés és lezárás
 209. Jelölje az igaz állításokat! MS projectben a projekt adatainál (2 helyes megoldás)
 210. Egy projekt erőforrás költségei: (3 helyes megoldás)
+     * wiki:
+         * munkaerő
+         * anyagköltségek
+         * eszközök
+         * épületek
+         * berendezések
+         * kockázati tartalékok
 211. Mi minden projekt alapvető célja?
+     * "Törvényi előírások betartása"
+     * "Időkeret betartása"
+     * "Költségkeret betartása"
+     * egyedi terméket, szolgáltatást vagy végeredményt hozzon létre
+     * meghatározott eredmény elérése meghatározott időn belül, meghatározott erőforrások felhasználásával
 212. Mely projekt nem tartozik a projektek teljesítésében résztvevők közé?
+     * "operatív projekt"
 213. Mi a célja a piaci, illetve értékesítés-orientált projekteknek?
+     * profit
+     * új piacok, piaci szegmensek meghódítása
+     * új termék kifejlesztése
 214. Melyik nem SWOT-analizis eleme?
+     * "Változások"
+     * ami része:
+         * Erősségek (Strengths)
+         * Gyengeségek (Weaknesses)
+         * Lehetőségek (Opportunities)
+         * Veszélyek (Threats)
 215. Melyik erőforrást nem adják meg projekt erőforrás szükségletének meghatározásakor?
+     * "Immaterális erőforrások"
 216. Mit jelent a probléma-fa?
+     * "Egyik sem"
+     * vizuális eszköz, amellyel egy adott probléma ok-okozati összefüggéseit ábrázolhatjuk
 217. Mi a feladata a Projektirányító testületnek?
+     * "Az elvégezendő feladat minősítése, döntés a feladat projektként való kezeléséről"
+     * Projekt célok és irányok meghatározása
+     * Projektterv jóváhagyása
+     * Projekt előrehaladásának felügyelete
+     * Döntéshozatal kulcsfontosságú kérdésekben
+     * Kommunikáció és koordináció elősegítése
+     * Projekt lezárása
 218. Mi a feladata a Projektirányító testületnek?
+     * ^
 219. Kik a Projektmanagerek?
+     *  akik projekteket irányítanak és vezetnek
 220. Melyik projektszereplő leírása ez: "legfontosabb feladata az, hogy biztosítsa a projekt céljainak elérést, a projektfeladatok elvégzését, megadott költségkereten és határidőn belül"
+     * "A projektmenedzser"
 221. Melyik NEM a SWOT elemzés része?
+     * ^
 222. Mely negatív hatású sikertényező az alábbiak közül?
+     * "Túlzott kezdeti optimizmus"
 223. Az alábbiak közül melyek a projekt megvalósításának lépései?
-224. Melyik fogalmat jellemzi: Egy olyan tényező, amely meghatározza az adott projekt határait. Nem csak azt mondja meg, hogy mi lesz elvégezve, hanem, hogy mi nem.
+     * "Környezetvédelmi-ökológiai"
+224. Melyik fogalmat jellemzi: Egy olyan tényező, amely meghatározza az adott projekt határait. Nem csak azt mondja meg, hogy mi lesz elvégezve, hanem, hogy mi nem. **Wow ez a kérdés máshonnan van lopva mint a többi projectes**
+     * "Hatókör"
 225. Melyik NEM a mágikus projektháromszög része?
+     * ami része:
+         * hatókör (scope)
+         * minőség (quality)
+         * költség (cost)
+         * idő (time)
+         * források (resources)
 226. Kik a Projekt támogatók?
+     * projektirodák egyik kategóriája a 8ból
+     * van valami kép [p136](https://mek.oszk.hu/14000/14009/pdf/14009.pdf)
+         * na jó életemre nem tudok rájönni ennek a válaszára
 227. A projekt téma időtáv szerint lehet: Két helyes válasz lehetséges)
+     * rövid
+     * középtávú
+     * hosszú
 228. Mi a projektmenedzsment fogalma?
+     * erőforrások szervezésével és irányításával foglalkozó szakterület
 229. Válassza ki a helyes megoldást! „A mágikus projektháromszög” peremfeltételei…
+     * "Költségkeret, Határidő, Minőség"
 
 # Sources
 **(ha mar a kedves petrikes** *(nem csak)* **tanarok csak lopni tudnak.)**
@@ -555,4 +631,7 @@ Petrik 2024 ágazati kérdésekre válaszok
 * http://w3.tmit.bme.hu/halozatbiztonsag/Halozatbiztonsag-10.doc
 * https://magyarepitestechnika.hu/index.php/epites-it/digitalis-fogalomtar/
 * https://www.goconqr.com/en/quiz/2700908/halozat-11
+* https://bluebird.hu/projektmenedzser-munkakor/
+* https://testline.hu/test/generation/9IO5C211
+* https://mek.oszk.hu/14000/14009/pdf/14009.pdf
 * https://pdfupload.io/docs/eb4d7669
