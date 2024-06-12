@@ -92,8 +92,11 @@ azért általában, mert nem ér meg annyit ez a jóság, hogy átnézzem többs
 34. Egy játékprogram fejlesztése során meg kell valósítania a többjátékos módot. Első lépésben a szoftver működő szervert keres a hálózaton, hogy csatlakozhasson ehhez.Milyen szállítási rétegbeli protokollt, és milyen címzést használna ezeknél a felderítő üzeneteknél? **WHERE VÉGE**
      * UDP protokolt,
      * broadast cimzest
-35. Tanulmányozza a képernyőképet! Az alábbiak közül milyen forgalmat fog rögzíteni a program? V1.png **IS THAT A MOTHER FUCKING ULTRAKILL REFERENCE**
-36. Tanulmányozza a képernyőképet! Az alábbiak közül melyik állítás igaz az éppen vizsgált keretre? V2.png **I'M CRYING AND SHAKING RN FR**
+35. Tanulmányozza a képernyőképet! Az alábbiak közül milyen forgalmat fog rögzíteni a program?  
+![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/V1.png)
+    * icmp
+36. Tanulmányozza a képernyőképet! Az alábbiak közül melyik állítás igaz az éppen vizsgált keretre?  
+![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/V2.png)
 37. Egy számítógép sikeresen pingel a helyi hálózaton kívülre, de nem tud hozzáférni semmilyen webes szolgáltatáshoz. Mi a legvalószínűbb oka ennek a problémának?
      * Valoszínűleg nem működik a dns nevfeloldas
 38. Melyik felsorolt technológia gyűrű topológiájú?
@@ -104,10 +107,13 @@ azért általában, mert nem ér meg annyit ez a jóság, hogy átnézzem többs
      * 100Mbit/s
 40. Egy számítógép IP-címe dinamikusan konfigurált, értéke pedig 169.254.17.65. Mire következtethet ebből az információból?
     * a  169.254.17.65 egy APIPA (Automatic Private IP Addressing) IP cim, amit akkor kap a szamitogep, amikor nem eri el a dhcp servert
-41. Melyik állítás igaz a webszerver alkalmazásra? V7.png2
-42. Az alábbiak közül melyik állítás igaz a webszerver alkalmazásra? V8.png
+41. Melyik állítás igaz a webszerver alkalmazásra?  
+![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/v7.jpg)
+42. Az alábbiak közül melyik állítás igaz a webszerver alkalmazásra?  
+![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/V8.jpg)
 43. Tanulmányozza az alábbi képet, amelyen az ipconfig parancs kimenete látható!
-44. A felhasználó Minecraft szervert indított a számítógépén, és átengedte azt a tűzfalon. Ezután egy távoli hálózatból megpróbált csatlakozni hozzá egy kliens a fent látható IP-címe ha_01.png **NINCS BEFEJEZVE**
+44. A felhasználó Minecraft szervert indított a számítógépén, és átengedte azt a tűzfalon. Ezután egy távoli hálózatból megpróbált csatlakozni hozzá egy kliens a fent látható IP-címe **NINCS BEFEJEZVE**  
+![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/ha01.png)
 45. Mi a különbség a 802.3 és a 802.11 szabványok között?
      * a kozvetito kozeg
      * .3 -> ethernet (vezetekes) akar 100Gbit/s
@@ -143,8 +149,11 @@ azért általában, mert nem ér meg annyit ez a jóság, hogy átnézzem többs
     * private ip adress (10.0.0.0-10.255.255.255)
 54. Melyik szervezet ad közre lokális hálózati szabványokat, mint pl. 802.3, 802.11, 802.15, stb.
      * IEEE (Institute of Electrical and Electronics Engineers)
-55. Tanulmányozza az alábbi képet! Mit eredményez a fenti parancs? ha_02.png
-56. Tanulmányozza az alábbi képet, amelyen egy forgalomirányító aktuális konfigurációjának részlete látható! Mit állapíthat meg ez alapján? ha_03.png 
+55. Tanulmányozza az alábbi képet! Mit eredményez a fenti parancs?  
+![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/ha02.png)
+    * új local IP címet kér a routertől, frissíti a local IP-t. 
+56. Tanulmányozza az alábbi képet, amelyen egy forgalomirányító aktuális konfigurációjának részlete látható! Mit állapíthat meg ez alapján?  
+![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/ha03.png)
 57. Minek a portja a 80-as?
      * http webserver
 58. Mi az előnye, ha szabványokat használunk protokollok fejlesztése és megvalósítása során?
@@ -221,16 +230,30 @@ azért általában, mert nem ér meg annyit ez a jóság, hogy átnézzem többs
 85. Melyik fogalom jelenti a kapcsoló feldolgozási képességét az alapján, hogy másodpercenként mennyi adatot képes feldolgozni?
     * továbbítási/kapcsolási sebesség
         * A "továbbítási sebesség" határozza meg egy kapcsoló feldolgozási képességeit, meghatározva, hogy mennyi adatot képes feldolgozni másodpercenként. A belépő szintű kapcsolók alacsonyabb továbbítási sebességgel rendelkeznek, mint a vállalati szintű kapcsolók.
-86. Tanulmányozza az alábbi képet! Milyen két hálózati eszközt egyesít a fenti szerszám? ha_04.png
+86. Tanulmányozza az alábbi képet! Milyen két hálózati eszközt egyesít a fenti szerszám?  
+![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/ha04.png)
+    * krimpelő fogó rj45
+    * kábel teszter rj45
 87. Milyen célcímet tartalmaz egy ARP kérés keret?
     * "FFFF.FFFF.FFFF"
         * Az ARP-kérés célja, hogy megtaláljuk az Ethernet LAN-on a célállomás MAC-címét. Az ARP egy második rétegbeli szórást küld minden eszköz számára az adott hálózati szegmensen. A keret tartalmazza a célállomás IP-címét, valamint az FFFF.FFFF.FFFF broadcast MAC-címet is. Az az állomás, amelynek az IP-címe megegyezik az ARP kérésben levő címmel, egyedi címzéses üzenetben válaszolni fog, amely tartalmazza a MAC-címét. Így az eredeti küldő megkapja a céljának összetartozó IP-cím és MAC-cím párosát, folytathatja az üzenetének beágyazását.
-88. Tanulmányozza az alábbi képet! Milyen kábel látható ezen? ha_05.png
-89. „6swB” kapcsoló 12-es portjára UTP-kábellel egy számítógépet csatlakoztattunk. Melyik állítás igaz az alábbiak közül. V6.png
-90. Melyik állítás igaz a „6swB” jelű kapcsolóról? V5.png
-91. Melyik állítás igaz az éppen tesztelt kábelről? V4.png
-92. Melyik állítás igaz a számítógép fizikai adapterére? V3.png **SPOILER!!**
-93. Tanulmányozza az alábbi képet, amin egy vezeték nélküli forgalomirányító grafikus felülete látható! Melyik állítás igaz a lentiek közül? ha_06.png
+88. Tanulmányozza az alábbi képet! Milyen kábel látható ezen?  
+![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/ha05.png)
+    * optikai kábel
+89. „6swB” kapcsoló 12-es portjára UTP-kábellel egy számítógépet csatlakoztattunk. Melyik állítás igaz az alábbiak közül.  
+![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/v6.jpg)
+    * nincs csatlakozás, há a lámpa nem lámpázik
+90. Melyik állítás igaz a „6swB” jelű kapcsolóról?  
+![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/V5.jpg)
+91. Melyik állítás igaz az éppen tesztelt kábelről?  
+![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/V4.jpg)
+    * nem jól lett rátéve a RJ45-ős csatlakozó (a vége), szóval nem használható
+92. Melyik állítás igaz a számítógép fizikai adapterére?  
+![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/V3.png)
+    * nincs internet
+93. Tanulmányozza az alábbi képet, amin egy vezeték nélküli forgalomirányító grafikus felülete látható! Melyik állítás igaz a lentiek közül?  
+![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/ha06.png)
+    * ![](https://i.imgur.com/nReIhjx.jpeg)
 
 ## Hálózatbiztonság -> 1
 94. Melyik két módszert használhatjuk arra, hogy a kapcsolónk kevésbé legyen sérülékeny az olyan támadásokra, mint a MAC-cím elárasztás, CDP támadás vagy Telnet támadás? (Két jó válasz van.)
@@ -368,9 +391,9 @@ azért általában, mert nem ér meg annyit ez a jóság, hogy átnézzem többs
 151. Az alábbiak közül melyik rövidítés nem a megjelenítéshez kapcsolódó technológia?
 152. Melyik PC-s bővítőkártya biztosítja az adatok hibatűrését?
      * raid card
-153. Tanulmányozzuk az ábrát! Egy technikus egy második SATA-merevlemezt telepít. Az alaplap melyik részét fogja használni a SATA-kábel csatlakoztatásához? vhardver01.png
-     * altalaban a nem backportos oldalán egy alaplapnak, vertically a kozepe alatt
-     * a SATA portoknál ?????????
+153. Tanulmányozzuk az ábrát! Egy technikus egy második SATA-merevlemezt telepít. Az alaplap melyik részét fogja használni a SATA-kábel csatlakoztatásához?  
+![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/vhardver01.png)
+     * B
 154. Melyik alkatrész felelős a tápegység és a számítógép egyéb alkatrészei közötti áramellátásért?
      * Alaplap/vezetékek
 155. Hol állítható be egy számítógépen, hogy ne merevlemezről, hanem optikai meghajtóról töltsön be? (2 jó válasz)
@@ -634,4 +657,3 @@ de hogy olyan szinten nem tanultuk, hogy:
 * https://bluebird.hu/projektmenedzser-munkakor/
 * https://testline.hu/test/generation/9IO5C211
 * https://mek.oszk.hu/14000/14009/pdf/14009.pdf
-* https://pdfupload.io/docs/eb4d7669
