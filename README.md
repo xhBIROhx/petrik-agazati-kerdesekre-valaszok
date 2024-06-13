@@ -419,7 +419,7 @@ azért általában, mert nem ér meg annyit ez a jóság, hogy átnézzem többs
 163. Milyen körülmények közt szerelheted szét a tápegységet javítás céljából?
      * SEMMILYEN KÖRÜLMÉNYEK KÖZÖTT SEM
          * valószínűleg ez a helyes válasz, de ha áramtalanítva, leföldelve és kitisztítva van, és értesz ahhoz amit csinálsz akkor lehet.
-164. Mi a helyes eljárás LCD/TFT nyomtató tisztításakor? ***egyaltalan mi a faszom az***
+164. Mi a helyes eljárás LCD/TFT nyomtató tisztításakor?
       * a képernyő, gyengéd letörlése egy finom microfiber törlővel
       * ha nem elég akkor víz, alkohol vagy ecet
 165. Melyik nem a szoftveres megelőző karbantartási folyamat része?
