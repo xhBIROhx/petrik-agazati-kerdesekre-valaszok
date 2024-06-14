@@ -253,6 +253,7 @@ azért általában, mert nem ér meg annyit ez a jóság, hogy átnézzem többs
     * nincs internet
 93. Tanulmányozza az alábbi képet, amin egy vezeték nélküli forgalomirányító grafikus felülete látható! Melyik állítás igaz a lentiek közül?  
 ![](https://raw.githubusercontent.com/xhBIROhx/petrik-agazati-kerdesekre-valaszok/main/pictures/ha06.png)
+    * csak az az 1 nem 0ás MAC cím tud rácsatlakozni a wirelessre
     * ![](https://i.imgur.com/nReIhjx.jpeg)
 
 ## Hálózatbiztonság -> 1
